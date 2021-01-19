@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_570212_my_libret.Segreteria" name="x_570212_my_libret.Segreteria">9b8c7e2ddbf9201094dc0181ca9619dd</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-19 08:48:02</sys_created_on>
+        <sys_id>032d7a6ddbf9201094dc0181ca96197a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>9b8c7e2ddbf9201094dc0181ca9619dd</sys_name>
+        <sys_package display_value="My Libretto" source="x_570212_my_libret">d03fc355dbb1201094dc0181ca96191a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My Libretto">d03fc355dbb1201094dc0181ca96191a</sys_scope>
+        <sys_update_name>sys_embedded_help_role_032d7a6ddbf9201094dc0181ca96197a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-19 08:48:02</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

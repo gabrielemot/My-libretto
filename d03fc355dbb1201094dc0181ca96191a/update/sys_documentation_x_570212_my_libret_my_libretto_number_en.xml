@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="number" label="Codice Materia" language="en" table="x_570212_my_libret_my_libretto">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <help/>
+            <hint/>
+            <label>Codice Materia</label>
+            <language>en</language>
+            <name>x_570212_my_libret_my_libretto</name>
+            <plural>Codice Materias</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-18 16:37:47</sys_created_on>
+            <sys_id>9a1f9b55dbf1201094dc0181ca9619c4</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>Codice Materia</sys_name>
+            <sys_package display_value="My Libretto" source="x_570212_my_libret">d03fc355dbb1201094dc0181ca96191a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="My Libretto">d03fc355dbb1201094dc0181ca96191a</sys_scope>
+            <sys_update_name>sys_documentation_x_570212_my_libret_my_libretto_number_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-01-18 16:45:14</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

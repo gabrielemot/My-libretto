@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_570212_my_libret.Professore" name="x_570212_my_libret.Professore">9e5db6addbf9201094dc0181ca96197f</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-19 08:52:16</sys_created_on>
+        <sys_id>8d2efaeddbf9201094dc0181ca9619e3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>9e5db6addbf9201094dc0181ca96197f</sys_name>
+        <sys_package display_value="My Libretto" source="x_570212_my_libret">d03fc355dbb1201094dc0181ca96191a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My Libretto">d03fc355dbb1201094dc0181ca96191a</sys_scope>
+        <sys_update_name>sys_embedded_help_role_8d2efaeddbf9201094dc0181ca9619e3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-19 08:52:16</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
